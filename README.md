@@ -1,5 +1,5 @@
 ### Hi there 👋
-(https://raw.githubusercontent.com/almoril00/almoril00/main/418-I'm-a-teapot.png)
+![Screenshot](418-I'm-a-teapot.png)
 <!--
 **almoril00/almoril00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
